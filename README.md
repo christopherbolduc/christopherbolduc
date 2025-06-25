@@ -14,7 +14,7 @@ Blending analytical rigor with strong storytelling and visualization skills.
 
 ## Projects
 
-### 🌪️ [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/hurricane-milton-airport-resilience)
+### 🌪️ [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
 Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
 Visualized comparative recovery timelines and built a custom scoring index.
 
