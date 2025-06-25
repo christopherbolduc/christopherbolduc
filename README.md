@@ -14,11 +14,11 @@ Blending analytical rigor with strong storytelling and visualization skills.
 
 ## Projects
 
-### 🌪️ [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
+### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
 Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
 Visualized comparative recovery timelines and built a custom scoring index.
 
-### 🌟 [Amazon India Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-fashion-sales-dashboard) (coming soon)
+### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-fashion-sales-dashboard) (coming soon)
 Built a dynamic Tableau dashboard from raw transactional data. 
 Highlighted regional sales trends, fulfillment KPIs, and promotional effectiveness. (SQL + Python ELT)
 
@@ -29,15 +29,17 @@ Highlighted regional sales trends, fulfillment KPIs, and promotional effectivene
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=postgresql,r,python,pandas,numpy,matplotlib,seaborn,excel)
 
 **Tools & IDEs**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,dbeaver,bash,sqlalchemy,miro)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,miro)
 
 **Soft Skills**  
-Data storytelling • Cross-functional communication • Analytical thinking • Problem-solving
+Critical Thinking • Data Storytelling • Prioritization of Accuracy • Attention to Detail • Adaptability • Clear Communication 
+
 
 ---
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/christopher-david-bolduc/)
+
 - [GitHub](https://github.com/christopherbolduc)
 
 ---
