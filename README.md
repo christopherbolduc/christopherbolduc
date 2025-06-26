@@ -29,7 +29,7 @@ Highlighted regional sales trends, fulfillment KPIs, and promotional effectivene
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=postgresql,r,python,pandas,numpy,matplotlib,seaborn,excel)
 
 **Tools & IDEs**  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,miro)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,supabase,miro)
 
 **Soft Skills**  
 Critical Thinking • Data Storytelling • Prioritization of Accuracy • Attention to Detail • Adaptability • Clear Communication 
