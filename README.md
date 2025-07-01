@@ -18,7 +18,7 @@ Blending analytical rigor with strong storytelling and visualization skills.
 Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
 Visualized comparative recovery timelines and built a custom scoring index.
 
-### 🛍️ [Amazon India Women's Fashion Sales Dashboard]([https://github.com/christopherbolduc/amazon-fashion-sales-dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
+### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
 Built a dynamic Tableau dashboard from raw transactional data. 
 Highlighted regional sales trends, fulfillment KPIs, and promotional effectiveness. (SQL + Python ELT)
 
