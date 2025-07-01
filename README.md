@@ -19,8 +19,8 @@ Assessed the storm-adjusted operational resilience of Florida airports using Pyt
 Visualized comparative recovery timelines and built a custom scoring index.
 
 ### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
-Built a dynamic Tableau dashboard from raw transactional data. 
-Highlighted regional sales trends, fulfillment KPIs, and promotional effectiveness. (SQL + Python ELT)
+Built a Tableau dashboard to analyze Q1 FY23 sales across styles, promo usage, and fulfillment status.
+Highlighted AOV shifts, top-selling products, and return/cancellation risk using SQL and Python-based ELT.
 
 ---
 
