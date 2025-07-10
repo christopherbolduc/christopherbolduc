@@ -7,7 +7,7 @@ Blending analytical rigor with strong storytelling and visualization skills.
 
 ## Background
 - 15+ years of international performance experience → now building data solutions
-- Strong in SQL, Python, Tableau, and data modeling
+- Strong in SQL, Python, Tableau, Excel and data modeling
 - Recent bootcamp graduate with hands-on projects in analytics, visualization, and ELT pipelines
 
 ---
