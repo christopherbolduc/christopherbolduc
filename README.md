@@ -1,7 +1,7 @@
 # Hi, I'm Christopher Bolduc 👋
 
-**Data Analyst** with a passion for turning messy real-world data into actionable insight.
-Blending analytical rigor with strong storytelling and visualization skills.
+**Data Analyst** with a passion for turning messy, real-world data into actionable insights.
+I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ---
 
