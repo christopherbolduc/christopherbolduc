@@ -1,4 +1,4 @@
-# Hi, I'm Christopher Bolduc 👋
+# 👋 Hi, I'm Christopher Bolduc
 
 **Data Analyst** with a passion for turning messy, real-world data into actionable insights.
 I blend analytical rigor with clear storytelling and impactful visualizations.
