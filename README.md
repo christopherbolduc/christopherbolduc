@@ -23,8 +23,9 @@ Built a Tableau dashboard to analyze Q1 FY23 sales across styles, promo usage, a
 Highlighted AOV shifts, top-selling products, and return/cancellation risk using SQL and Python-based ELT.
 
 ### 📘 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
-Completed all 50 problems from LeetCode’s Top SQL Study Plan using PostgreSQL.
+Completed all problems from LeetCode’s Top 50 SQL Questions using PostgreSQL.
 Focused on clean syntax, practical fixes, and detailed inline commentary — emphasizing *why* a query works, not just how.
+In the final category, I challenge a few accepted solutions where the logic didn’t hold up in real-world scenarios.
 
 ---
 
