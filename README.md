@@ -37,7 +37,7 @@ In the final category, I challenge a few accepted solutions where the logic didn
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,supabase,miro)
 
 **Soft Skills**  
-Critical Thinking • Data Storytelling • Prioritization of Accuracy • Attention to Detail • Adaptability • Clear Communication 
+Data Storytelling · Stakeholder Communication · Strategic Thinking · Problem Solving · Attention to Detail
 
 
 ---
