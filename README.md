@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Christopher Bolduc
 
-**Data Analyst** with a passion for turning messy, real-world data into actionable insights.
+**Data Analyst / Business Analyst** with a passion for turning messy, real-world data into actionable insights.
 I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ---
 
 ## Background
-- 15+ years of international performance experience → now building data solutions
+- 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline and drive to data solutions
+- 2.5+ years of focused self-study in data analytics
 - Strong in SQL, Python, Tableau, Excel, and data modeling
-- Recent bootcamp graduate with hands-on projects in analytics, visualization, and ELT pipelines
-
+- Graduate of a 540-hour full-time bootcamp with hands-on projects in analytics, visualization, and ELT pipelines
+- Currently completing Google’s Advanced Data Analytics professional certification
 ---
 
 ## Projects & Problem Solving
