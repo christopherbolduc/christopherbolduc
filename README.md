@@ -6,7 +6,7 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 ---
 
 ## Background
-- 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline and drive to data solutions
+- 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline/drive to data solutions
 - 2.5+ years of focused self-study in data analytics
 - Strong in SQL, Python, Tableau, Excel, and data modeling
 - Graduate of a 540-hour full-time bootcamp with hands-on projects in analytics, visualization, and ELT pipelines
