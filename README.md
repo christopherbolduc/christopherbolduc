@@ -10,7 +10,7 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 - 2.5+ years of focused self-study in data analytics
 - Strong in SQL, Python, Tableau, Excel, and data modeling
 - Graduate of a 540-hour full-time bootcamp with hands-on projects in analytics, visualization, and ELT pipelines
-- Currently completing Google’s Advanced Data Analytics professional certification
+- Currently completing Google’s Advanced Data Analytics professional certification (*Expected September 2025*)
 ---
 
 ## Projects & Problem Solving
