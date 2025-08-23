@@ -32,7 +32,7 @@ In the final category, I challenge a few accepted solutions where the logic didn
 
 ## Skills
 **Languages & Libraries**  
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,python,pandas,numpy,matplotlib,seaborn,excel)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,python,pandas,numpy,scipy,matplotlib,seaborn,excel)
 
 **Tools & IDEs**  
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,supabase,miro)
