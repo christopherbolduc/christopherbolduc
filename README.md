@@ -19,13 +19,13 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 Built a recall-first churn model with XGBoost (vs. Random Forest) and tuned the decision threshold via the Precision–Recall curve.
 Operationalized a ~0.58 cutoff with risk tiers, delivering a model card, confusion matrix, and feature importances for actionable retention.
 
-### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
-Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
-Visualized comparative recovery timelines and built a custom scoring index.
-
 ### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
 Built a Tableau dashboard to analyze Q1 FY23 sales across styles, promo usage, and fulfillment status.
 Highlighted AOV shifts, top-selling products, and return/cancellation risk using SQL and Python-based ELT.
+
+### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
+Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
+Visualized comparative recovery timelines and built a custom scoring index
 
 ### 📘 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
 Completed all problems from LeetCode’s Top 50 SQL Questions using PostgreSQL.
