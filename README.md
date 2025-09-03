@@ -15,6 +15,10 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ## Projects & Problem Solving
 
+### 🚗 [Waze Churn Prediction — Operational Threshold Modeling](https://github.com/christopherbolduc/waze-churn-prediction)
+Built a recall-first churn model with XGBoost (vs. Random Forest) and tuned the decision threshold via the Precision–Recall curve.
+Operationalized a ~0.58 cutoff with risk tiers, delivering a model card, confusion matrix, and feature importances for actionable retention.
+
 ### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
 Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
 Visualized comparative recovery timelines and built a custom scoring index.
