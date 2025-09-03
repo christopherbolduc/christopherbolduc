@@ -8,24 +8,25 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 ## Background
 - 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline/drive to data solutions
 - 2.5+ years of focused self-study in data analytics
-- Strong in SQL, Python, Tableau, Excel, and data modeling
 - Graduate of a 540-hour full-time bootcamp with hands-on projects in analytics, visualization, and ELT pipelines
 - Currently completing Google’s Advanced Data Analytics professional certification (*Expected October 2025*)
+- Strong in SQL, Python, Tableau, and Excel, with a proven ability to turn raw data into clean pipelines, clear models, and actionable dashboards
+- Strong in SQL, Python, Tableau, and Excel, with hands-on experience in data modeling, pipeline design, and dashboard development
 ---
 
 ## Projects & Problem Solving
 
 ### 🚗 [Waze Churn Prediction — Operational Threshold Modeling](https://github.com/christopherbolduc/waze-churn-prediction)
-Built a recall-first churn model with XGBoost (vs. Random Forest) and tuned the decision threshold via the Precision–Recall curve.
-Operationalized a ~0.58 cutoff with risk tiers, delivering a model card, confusion matrix, and feature importances for actionable retention.
+Built a recall-first churn model with XGBoost (benchmarked against Random Forest) and tuned the decision threshold using the Precision–Recall curve.
+Operationalized a ~0.58 cutoff with risk tiers, producing a model card, confusion matrix, and feature importances to guide retention strategy.
 
 ### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
-Built a Tableau dashboard to analyze Q1 FY23 sales across styles, promo usage, and fulfillment status.
-Highlighted AOV shifts, top-selling products, and return/cancellation risk using SQL and Python-based ELT.
+Analyzed 100K+ Q1 FY23 orders across styles, promo usage, and fulfillment status using SQL and Python-based ELT.
+Built an interactive Tableau dashboard to track AOV shifts, top-selling products, and return/cancellation risk for business stakeholders.
 
 ### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
-Assessed the storm-adjusted operational resilience of Florida airports using Python, SQL, and Meteostat data. 
-Visualized comparative recovery timelines and built a custom scoring index
+Engineered an Airport Resilience Index by integrating 5K+ FAA flight records with NOAA storm data to measure how Florida airports recover from extreme weather.
+Built Python + SQL pipelines to model storm-adjusted delays and cancellations, then visualized recovery timelines and resilience scores to support disaster-response planning.
 
 ### 📘 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
 Completed all problems from LeetCode’s Top 50 SQL Questions using PostgreSQL.
