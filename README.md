@@ -11,7 +11,6 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 - Graduate of a 540-hour full-time bootcamp with hands-on projects in analytics, visualization, and ELT pipelines
 - Currently completing Google’s Advanced Data Analytics professional certification (*Expected October 2025*)
 - Strong in SQL, Python, Tableau, and Excel, with a proven ability to turn raw data into clean pipelines, clear models, and actionable dashboards
-- Strong in SQL, Python, Tableau, and Excel, with hands-on experience in data modeling, pipeline design, and dashboard development
 ---
 
 ## Projects & Problem Solving
