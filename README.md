@@ -16,7 +16,7 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 ## Projects & Problem Solving
 
 ### 🚗 [Waze Churn Prediction — Operational Threshold Modeling](https://github.com/christopherbolduc/waze-churn-prediction)
-Built a recall-first churn model with XGBoost (benchmarked against Random Forest), with the operating threshold frozen on validation via bootstrap (1st percentile)—no test-set tuning. Deployed a ~0.575 policy that delivers ~52% recall at ~34% precision on test (AP 0.354 ≈ 2× baseline 0.175, flag rate ~26.7%), plus validation-derived risk tiers, a model card, confusion matrix, and F-score feature importance to guide retention strategy.
+Built a recall-first churn model with XGBoost (benchmarked against Random Forest), with the operating threshold frozen on validation via bootstrap; no test-set tuning. Deployed a 0.575 policy that delivers ~52% recall at ~34% precision on test, AP 0.354 (~2x baseline 0.175), flag rate ~26.7%; plus validation-derived risk tiers, a model card, confusion matrix, and F-score feature importance to guide retention strategy.
 
 ### 🛍️ [Amazon India Women's Fashion Sales Dashboard](https://github.com/christopherbolduc/amazon-in-dashboard)
 Analyzed 100K+ Q1 FY23 orders across styles, promo usage, and fulfillment status using SQL and Python-based ELT.
