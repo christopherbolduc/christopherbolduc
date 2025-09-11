@@ -26,7 +26,7 @@ Built an interactive Tableau dashboard to track AOV shifts, top-selling products
 Engineered an Airport Resilience Index by integrating 5K+ FAA flight records with NOAA storm data to measure how Florida airports recover from extreme weather.
 Built Python + SQL pipelines to model storm-adjusted delays and cancellations, then visualized recovery timelines and resilience scores to support disaster-response planning.
 
-### 📘 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
+### 📙 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
 Completed all problems from LeetCode’s Top 50 SQL Questions using PostgreSQL.
 Focused on clean syntax, practical fixes, and detailed inline commentary — emphasizing *why* a query works, not just how.
 In the final category, I challenge a few accepted solutions where the logic didn’t hold up in real-world scenarios.
