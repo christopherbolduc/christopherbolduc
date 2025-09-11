@@ -41,7 +41,7 @@ In the final category, I challenge a few accepted solutions where the logic didn
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=tableau,jupyter,vscode,git,github,dbeaver,bash,sqlalchemy,supabase,miro)
 
 **Soft Skills**  
-Data Storytelling · Stakeholder Communication · Strategic Thinking · Problem Solving · Attention to Detail
+Data Storytelling · Strategic Thinking · Stakeholder Communication · Problem Solving · Attention to Detail
 
 
 ---
