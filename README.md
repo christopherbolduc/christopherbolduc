@@ -16,7 +16,7 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ## Projects & Problem Solving
 
-### 👤 [Salifort Motors HR Attrition — Recall-First Retention Modeling](https://github.com/christopherbolduc/salifort-attrition)
+### 👤 [Salifort Motors Attrition — Operational Threshold Modeling](https://github.com/christopherbolduc/salifort-attrition)
 Built a recall-first attrition model with XGBoost (vs Random Forest), champion by CV-AP; locked the operating threshold on validation using a highest-τ rule to meet a ~0.90 recall target (no test tuning). Deployed τ≈0.928; test confirms Precision 0.981, Recall 0.899, Accuracy 0.980 at ~15% flag rate. Deliverables: model card, policy PR curve, XGB vs RF confusion matrices, risk tiers, and F-score rankings + SHAP explanations that translate drivers into targeted retention actions for stakeholders.
 
 ### 🚗 [Waze Churn Prediction — Operational Threshold Modeling](https://github.com/christopherbolduc/waze-churn-prediction)
