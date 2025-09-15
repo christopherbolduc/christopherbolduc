@@ -15,6 +15,9 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ## Projects & Problem Solving
 
+### 👤 [Salifort Motors HR Attrition — Recall-First Retention Modeling](https://github.com/christopherbolduc/salifort-attrition)
+Built a recall-first attrition model with XGBoost (vs Random Forest), champion by CV-AP, and froze the operating threshold on validation using a highest-τ rule to meet ~0.90 recall (no test tuning). Deployed τ≈0.912, with test confirming Precision 0.981, Recall 0.899, Accuracy 0.980 at ~15% flag rate; includes a model card, risk tiers, XGB vs RF confusion matrices, and SHAP insights.
+
 ### 🚗 [Waze Churn Prediction — Operational Threshold Modeling](https://github.com/christopherbolduc/waze-churn-prediction)
 Built a recall-first churn model with XGBoost (vs Random Forest), freezing the operating threshold on validation via bootstrap; no test-set tuning. Deployed a 0.575 policy delivering ~52% recall and ~34% precision on test (PR-AUC 0.354, ~2x baseline 0.175) at a 26.7% flag rate; plus a model card, risk tiers, confusion matrix, and F-score feature insights to guide retention.
 
@@ -23,7 +26,7 @@ Analyzed 100K+ Q1 FY23 orders across styles, promo usage, and fulfillment status
 Built an interactive Tableau dashboard to track AOV shifts, top-selling products, and return/cancellation risk for business stakeholders.
 
 ### 🌀 [Hurricane Milton: Airport Resilience Analysis](https://github.com/christopherbolduc/airport-resilience-milton)
-Engineered an Airport Resilience Index by integrating 5K+ FAA flight records with NOAA storm data to measure how Florida airports recover from extreme weather.
+Engineered an Airport Resilience Index by integrating 20.4K FAA flight records with NOAA storm data to measure how Florida airports recover from extreme weather.
 Built Python + SQL pipelines to model storm-adjusted delays and cancellations, then visualized recovery timelines and resilience scores to support disaster-response planning.
 
 ### 📙 [LeetCode SQL 50 – Solutions & Commentary](https://github.com/christopherbolduc/leetcode-sql-50)
