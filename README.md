@@ -7,7 +7,7 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ## Background
 - 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline/drive to data solutions
-- 2.5+ years of focused self-study and hands-on work in data analytics
+- 3+ years of focused self-study and hands-on work in data analytics
 - Graduate of a 540-hour full-time bootcamp at neuefische GmbH with projects in analytics, visualization, and ELT pipelines
 - Completed Google's Advanced Data Analytics Professional Certificate focused on statistical methods, regression analysis, and machine learning for business insights
 - Strong in SQL, Python, Tableau, and Excel; proven ability to turn raw data into clean pipelines, clear models, and actionable dashboards
