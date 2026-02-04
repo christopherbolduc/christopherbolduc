@@ -16,6 +16,9 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ## Projects & Problem Solving
 
+### 🔁 [NYS Air Quality — Daily Automation (OpenAQ + GitHub Actions)](https://github.com/christopherbolduc/nys-air-quality)
+Automated a daily New York State air-quality snapshot using the OpenAQ API with a NYS GeoJSON boundary filter (no bbox-only shortcuts). Runs on a schedule via GitHub Actions, generates reproducible artifacts (daily note + SVG map + pollutant coverage chart + CSV summary), and opens a PR for human-in-the-loop review/merge. Includes rate-limit backoff, "stale data" quality checks, deterministic sampling for apples-to-apples comparisons, and a clean repo layout.
+
 ### 👤 [Salifort Motors Attrition (Machine Learning)](https://github.com/christopherbolduc/salifort-attrition)
 Built a recall-first attrition model with XGBoost (vs Random Forest), champion by CV-AP; locked the operating threshold on validation using a highest-τ rule to meet a ~0.90 recall target (no test tuning). Deployed τ≈0.928; test confirms Precision 0.981, Recall 0.899, Accuracy 0.980 at ~15% flag rate. Deliverables: model card, policy PR curve, XGB vs RF confusion matrices, risk tiers, and F-score rankings + SHAP explanations that translate drivers into targeted retention actions for stakeholders.
 
