@@ -5,12 +5,12 @@ I blend analytical rigor with clear storytelling and impactful visualizations.
 
 ---
 
-## Background
-- 15+ years as a world-class opera singer (incl. Metropolitan Opera) → now bringing that same discipline/drive to data solutions
-- 3.5 + years of focused self-study and hands-on work in data analytics
-- Graduate of a 540-hour full-time bootcamp at neuefische GmbH with projects in analytics, visualization, and ELT pipelines
-- Completed Google's Advanced Data Analytics Professional Certificate focused on statistical methods, regression analysis, and machine learning for business insights
-- Strong in SQL, Python, Tableau, and Excel; proven ability to turn raw data into clean pipelines, clear models, and actionable dashboards
+## About Me
+
+- Data Analyst working with SQL, Python, Tableau, and Excel to turn raw data into clean pipelines, practical models, and clear dashboards.
+- Former international opera singer (18+ years, including the Metropolitan Opera) bringing the same discipline, precision, and performance mindset to data analysis and problem solving.
+- Background includes a 540-hour data analytics bootcamp at neuefische and Google’s Advanced Data Analytics Professional Certificate, with projects spanning machine learning, visualization, and ETL/ELT workflows.
+- Repositories include machine learning models, analytics dashboards, and data workflows built with Python, SQL, and Tableau.
 
 ---
 
