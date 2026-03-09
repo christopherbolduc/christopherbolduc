@@ -1,16 +1,15 @@
 # 👋 Hello, I'm Christopher
 
-**Data Analyst / Business Analyst** with a passion for turning messy, real-world data into actionable insights.
-I blend analytical rigor with clear storytelling and impactful visualizations.
+**Data Analyst** focused on turning messy, real-world data into clear analysis and useful dashboards using SQL, Python, Tableau, Power BI, and Excel.
 
 ---
 
 ## About Me
 
-- Data Analyst working with SQL, Python, Tableau, and Excel to turn raw data into clean pipelines, practical models, and clear dashboards.
+- Build data pipelines, analytical models, and dashboards that help teams understand complex data and make better decisions.
 - Former international opera singer (18+ years, including the Metropolitan Opera) bringing the same discipline, precision, and performance mindset to data analysis and problem solving.
-- Background includes a 540-hour data analytics bootcamp at neuefische GmbH in Germany and Google’s Advanced Data Analytics Professional Certificate, with projects spanning machine learning, visualization, and ETL/ELT workflows.
-- Repositories include analytics dashboards, machine learning models, and data workflows built with Python, SQL, and Tableau.
+- Graduate of a 540-hour full-time data analytics bootcamp at neuefische GmbH in Germany and completed Google’s Advanced Data Analytics Professional Certificate.
+- Repositories here include analytics dashboards, machine learning models, and data workflows built with Python, SQL, and Tableau.
 
 ---
 
