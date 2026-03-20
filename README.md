@@ -59,14 +59,11 @@ In the final category, I challenge a few accepted solutions where the logic didn
 **Soft Skills**  
 Data Storytelling · Strategic Thinking · Stakeholder Communication · Problem Solving · Attention to Detail
 
-
 ---
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/christopher-david-bolduc/)
-
-- [GitHub](https://github.com/christopherbolduc)
-
-- [Tableau](https://public.tableau.com/app/profile/christopherbolduc/vizzes)
+[LinkedIn](https://www.linkedin.com/in/christopher-david-bolduc/) |
+[GitHub](https://github.com/christopherbolduc) |
+[Tableau](https://public.tableau.com/app/profile/christopherbolduc/vizzes)
 
 ---
