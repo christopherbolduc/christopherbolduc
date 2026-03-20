@@ -8,7 +8,7 @@
 
 - My work focuses on building data pipelines, analytical models, and dashboards that help teams understand complex data and make better decisions.
 - Former international opera singer (18+ years, including the Metropolitan Opera) bringing the same discipline, precision, and performance mindset to data analysis and problem solving.
-- Graduate of a 540-hour full-time data analytics bootcamp at neuefische GmbH in Germany and completed Google’s Advanced Data Analytics Professional Certificate.
+- Completed a 540-hour full-time Data Analytics bootcamp at neuefische GmbH (Germany) and earned the Google Advanced Data Analytics Professional Certificate.
 - Repositories here include analytics dashboards, machine learning models, and data workflows built with Python, SQL, and Tableau.
 
 ---
