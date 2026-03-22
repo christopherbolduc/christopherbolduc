@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Christopher
+# Hello, I'm Christopher
 
 **Data Analyst** turning messy, real-world data into clear analysis and practical dashboards using SQL, Python, Tableau, Power BI, and Excel.
 
