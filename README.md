@@ -15,11 +15,11 @@
 
 ## Tech Stack
 
-- **SQL:** PostgreSQL, MySQL  
-- **Python:** pandas, NumPy, scikit-learn, XGBoost  
-- **Visualization & BI:** Tableau, Power BI, Excel  
-- **Tools & Workflow:** Git, GitHub, GitHub Actions, Jupyter, VS Code  
-- **Data Sources & Formats:** APIs, JSON, CSV, Web Scraping
+- **SQL:** PostgreSQL, Microsoft SQL Server, MySQL
+- **Python:** pandas, NumPy, scikit-learn, XGBoost
+- **Visualization & BI:** Power BI, Tableau, Excel
+- **Tools & Workflow:** Git, GitHub, GitHub Actions, Jupyter, VS Code
+- **Data Access & Formats:** APIs, Web Scraping, JSON, CSV
 
 ---
 
